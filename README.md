@@ -33,3 +33,7 @@ This project analyzes malaria prevalence across Nigerian states to identify high
 
 - Dataset: nigeria_malaria_data.csv
 - Dashboard: malaria_dashboard.pbix
+
+- ## Report
+- [Insights and Recommendation.docx](https://github.com/user-attachments/files/24333936/Insights.and.Recommendation.docx)
+
